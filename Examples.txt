@@ -1,0 +1,10 @@
+-Token recognizer test examples.
+
+- This is a token recognizer test example!!!!!!
+
+- Testando todas as acentuações e caracteres especiais:
+
+-!?/@#$%¨&|*()"' ,.àéâã
+
+
+
